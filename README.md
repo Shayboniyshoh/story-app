@@ -1,6 +1,8 @@
-# quiz_project
+# Simple Story App
 
-A new Flutter project.
+A new Story Flutter App.
+
+![story app](https://github.com/Shayboniyshoh/story-app/assets/47345004/43da07e3-819a-4338-b170-03e0b9f8072c)
 
 ## Getting Started
 
